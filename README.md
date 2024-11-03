@@ -1,1 +1,1 @@
-# ViberBot
+# DiscordBot
